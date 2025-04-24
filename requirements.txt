@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Modelos de embeddings e cross-encoder
+sentence-transformers>=2.2.2
+
+# Cliente Qdrant
+qdrant-client>=1.4.0
+
+# TF‑IDF e pré‑processamento
+scikit-learn>=1.2.0
+
+# Leitura de PDF
+pypdf>=3.10.0
+
+# Agent framework
+pydantic-ai>=0.1.0
+
+# Validação de modelos
+pydantic>=2.0.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Serialização do vectorizer
+joblib>=1.2.0
