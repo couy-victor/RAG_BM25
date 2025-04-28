@@ -104,10 +104,6 @@ O sistema pode ser personalizado através de variáveis de ambiente:
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
-## 👥 Autores
-
-Desenvolvido pela Equipe Scoras Academy.
-
 ---
 
 ## 📊 Comparação de Técnicas de Busca
