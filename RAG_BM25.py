@@ -2,7 +2,6 @@
 """
 Sistema RAG para consulta à LGPD usando ChromaDB + BM25 (híbrido).
 Versão: 3.1
-Autores: Equipe Scoras Academy
 """
 
 import os
